@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EcE</string>
+
+    //Pomodoro notification strings
+    <string name="pomodoro_channel_name">PomodoroGO</string>
+    <string name="pomodoro_channel_description">PomodoroGO</string>
+    <string name="pomodoro_channel_id">PomodoroID</string>
+    <string name="title_activity_pomodoro">PomodoroActivity</string>
+</resources>

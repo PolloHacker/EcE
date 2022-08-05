@@ -1,0 +1,6 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_target"
+    android:insetLeft="66dp"
+    android:insetRight="66dp"
+    android:insetTop="66dp"
+    android:insetBottom="66dp"/>
